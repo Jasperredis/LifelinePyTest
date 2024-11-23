@@ -5,6 +5,7 @@
     "description": "v1 is no longer supported! Please go to https://jasperredis.github.io/lifelinepy.github.io.",
     "pgs": 2,
     "1": {
+        "lns": 13
         "1": "Welcome to Lifeline.py v1.1!",
         "2": "This update brings INCOMPATIBLE CHANGES for previous versions, so be sure to update!",
         "3": "- Remastered UPDATES Tab:",
@@ -20,12 +21,14 @@
         "13": "- Added new options:"
     },
     "2": {
+        "lns": 8
         "1": "    - Bind Controls",
         "2": "    - Autosave",
         "3": "    - About",
         "4": "    - Website",
         "5": "    - Restore Defaults",
         "6": "    - Reset Data",
-        "7": "More planned for v1.1.1/v1.2!"
+        "7": "More planned for v1.1.1/v1.2!",
+        "8": "Please check out my YouTube channel, @jasperredis!"
     }
 }
