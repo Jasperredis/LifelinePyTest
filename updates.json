@@ -3,7 +3,7 @@
     "version": "1.1",
     "date": "11/22/2024",
     "pgs": 2,
-    "pg1": {
+    "1": {
         "1": "Welcome to Lifeline.py v1.1!",
         "2": "This update brings INCOMPATIBLE CHANGES for previous versions, so be sure to update!",
         "3": "- Remastered UPDATES Tab:",
@@ -18,7 +18,7 @@
         "12": "    - A fullscreen/minimize button",
         "13": "- Added new options:"
     },
-    "pg2": {
+    "2": {
         "1": "    - Bind Controls",
         "2": "    - Autosave",
         "3": "    - About",
