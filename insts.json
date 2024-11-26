@@ -5,13 +5,13 @@
     "1": {
       "title": "PTest1",
       "desc": "PTest111",
-      "filename": "ptst.txt",
+      "fileurl": "https://raw.githubusercontent.com/Jasperredis/LifelinePyTest/refs/heads/main/insts/ptst1/ptst.txt",
       "folder": "ptst1"
     },
     "2": {
       "title": "PTest2",
       "desc": "PTest211",
-      "filename": "ptst.txt",
+      "fileurl": "https://raw.githubusercontent.com/Jasperredis/LifelinePyTest/refs/heads/main/insts/ptst2/ptst.txt",
       "folder": "ptst2"
     }
   },
@@ -19,13 +19,13 @@
     "1": {
       "title": "Test1",
       "desc": "Test111",
-      "filename": "tst.txt",
+      "fileurl": "https://raw.githubusercontent.com/Jasperredis/LifelinePyTest/refs/heads/main/insts/tst1/tst.txt",
       "folder": "tst1"
     },
     "2": {
       "title": "Test2",
       "desc": "Test211",
-      "filename": "tst.txt",
+      "filename": "https://raw.githubusercontent.com/Jasperredis/LifelinePyTest/refs/heads/main/insts/tst2/tst.txt",
       "folder": "tst2"
     }
   }
