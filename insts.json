@@ -25,7 +25,8 @@
     "2": {
       "title": "Test2",
       "desc": "Test211",
-      "filename": "https://raw.githubusercontent.com/Jasperredis/LifelinePyTest/refs/heads/main/insts/tst2/tst.txt",
+      "fileurl": "https://raw.githubusercontent.com/Jasperredis/LifelinePyTest/refs/heads/main/insts/tst2/tst.txt",
       "folder": "tst2"
     }
   }
+}
